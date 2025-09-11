@@ -1,6 +1,8 @@
 # cmsc240-mod-6
 Module #6 - My First Starship Launch
 
+**DUE 9/14 @ 11:59pm**
+
 ### Instructions
 
 For this module, you are simulating a space ship launch. The [header file](space_ship.h) and .cpp files are given to you with a simple [Makefile](Makefile). Currently the ship does not run, as not all of the components are ready for launch. 
@@ -23,8 +25,8 @@ For this module, you are simulating a space ship launch. The [header file](space
 
 [1pt] - `all` and `clean` targets unchanged in the Makefile
 
-[1pt] - ship_launch program takes in an integer value as an optional argument to set the countdown starting point
+[2pt] - ship_launch program takes in an integer value as an optional argument to set the countdown starting point. Checks for negative value and no value.
 
-[2pt] - README.md file contains the sections specified. 
+[1pt] - README.md file contains the sections specified. 
 
 **10 pts total**
